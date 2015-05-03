@@ -26,7 +26,7 @@ namespace FaceFun
     /// </summary>
     public sealed partial class MainPage : Page
     {
-        private string APIKey = "86159233d1b24923bd31beac39338ed2";
+        private string APIKey = "YOUR API KEY";
 
         public MainPage()
         {
